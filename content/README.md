@@ -1,0 +1,1 @@
+This is the NuGet /content folder. This CANNOT be empty. 

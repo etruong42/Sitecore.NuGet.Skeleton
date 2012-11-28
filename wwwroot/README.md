@@ -1,0 +1,1 @@
+This is the /wwwroot folder. Files here will be installed into the target Sitecore server. If you place a file wwwroot/bin/MyLibrary.dll, MyLibrary.dll will appear in the target Sitecore bin directory.
